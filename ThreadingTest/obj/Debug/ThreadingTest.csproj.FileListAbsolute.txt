@@ -1,0 +1,6 @@
+d:\users\iswitcher\Documents\GitHub\ThreadingTest\ThreadingTest\bin\Debug\ThreadingTest.exe.config
+d:\users\iswitcher\Documents\GitHub\ThreadingTest\ThreadingTest\bin\Debug\ThreadingTest.exe
+d:\users\iswitcher\Documents\GitHub\ThreadingTest\ThreadingTest\bin\Debug\ThreadingTest.pdb
+d:\users\iswitcher\Documents\GitHub\ThreadingTest\ThreadingTest\obj\Debug\ThreadingTest.csprojResolveAssemblyReference.cache
+d:\users\iswitcher\Documents\GitHub\ThreadingTest\ThreadingTest\obj\Debug\ThreadingTest.exe
+d:\users\iswitcher\Documents\GitHub\ThreadingTest\ThreadingTest\obj\Debug\ThreadingTest.pdb
